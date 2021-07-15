@@ -3,7 +3,7 @@
 Plugin Name: Woocommerce Product Page Social Share
 Plugin URI : https://wordpress.org/plugins/woo-product-page-social-share/
 Description: Add attractive & responsive social sharing icons for Facebook, Twitter, Pinterest to your product pages.
-Version: 1.0.3
+Version: 2.0.5
 Author: Sajjad Hossain Sagor
 Author URI: https://sajjadhsagor.com/
 Text Domain: woo-product-page-social-share
